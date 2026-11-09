@@ -8,4 +8,4 @@ folder and linking it from the root `index.md`.
 
 | App | Policy |
 |-----|--------|
-| Extrato CHT (`com.tcgr.extratocht`) | <https://thomascouto.github.io/privacy-policies/extrato-cht/> |
+| Extrato CHT (`br.com.tcgr.extratocht`) | <https://thomascouto.github.io/privacy-policies/extrato-cht/> |

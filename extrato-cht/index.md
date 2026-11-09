@@ -5,7 +5,7 @@ lang: en
 
 # Privacy Policy / Política de Privacidade
 
-Extrato CHT (`com.tcgr.extratocht`), by TCGR IT Systems LTDA. Last updated: 2026-11-09.
+Extrato CHT (`br.com.tcgr.extratocht`), by TCGR IT Systems LTDA. Last updated: 2026-11-09.
 
 - [English](#english)
 - [Português](#português)
